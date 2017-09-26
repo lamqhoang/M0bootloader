@@ -14,7 +14,7 @@
         {
           "name": "Big Dolphin Zero Boards",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "1.6.16",
           "category": "Contributed",
           "url": "https://github.com/lamqhoang/M0bootloader/raw/master/Dolphin-1.0.0.zip",
           "archiveFileName": "Dolphin-1.0.0.zip",
