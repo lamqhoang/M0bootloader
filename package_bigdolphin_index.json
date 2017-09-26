@@ -2,32 +2,32 @@
   "packages":
   [
     {
-      "name": "falcon",
-      "maintainer": "Martin Lindupp",
-      "websiteURL": "http://www.arduino.cc/en/Reference/HomePage",
+      "name": "DolphinZero",
+      "maintainer": "Big Dolphin",
+      "websiteURL": "http://bigdolphin.com.vn",
       "help":
       {
-        "online": "http://www.arduino.cc/en/Reference/HomePage"
+        "online": "http://bigdolphin.com.vn"
       },
       "platforms":
       [
         {
-          "name": "Falcon Flight Controller Boards",
+          "name": "Big Dolphin Zero Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "file://D:/OneDrive/DolphinM0/Dolphin-1.0.0.zip",
-          "archiveFileName": "Falcon-1.0.0.zip",
-          "checksum": "SHA-256:77DA1324C544AB616A7E13883C2829C5EAEF169C633034B97DB1C2AD1BA1EDDE",
-          "size": "4018809",
+          "url": "https://github.com/lamqhoang/M0bootloader/raw/master/Dolphin-1.0.0.zip",
+          "archiveFileName": "Dolphin-1.0.0.zip",
+          "checksum": "SHA-256:CAC260239A0D1EBF95628674FFAA64DA6D235C0356B6C5BB37C7C7C9B5EB44F8",
+          "size": "1086070",
           "boards": [
     {
-      "name": "Falcon 1"
+      "name": "DPZ-D21x17"
     },
-            {
-              "name": "Falcon 2"
-            }          
-          ],
+    {
+      "name": "DPZ-D21x18"
+	}          
+    ],
           "toolsDependencies":
           [
             {
@@ -35,6 +35,11 @@
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
+			{
+				"packager": "MattairTech_Arduino",
+				"name": "bossac",
+				"version": "1.5-arduino-mattairtech-1"
+			},
             {
               "packager": "arduino",
               "name": "bossac",
