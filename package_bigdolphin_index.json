@@ -18,8 +18,8 @@
           "category": "Contributed",
           "url": "https://github.com/lamqhoang/M0bootloader/raw/master/Dolphin-1.0.0.zip",
           "archiveFileName": "Dolphin-1.0.0.zip",
-          "checksum": "SHA-256:C0CF21F5A6E4948819FDDE7B1F17538A02AB3FAEA059F82C1D3B054B638CA6B0",
-          "size": "1093314",
+          "checksum": "SHA-256:FCD4A09047ACAC22C6C919B08C49816BF0DE4D36DB7FE2538DC7B744D946A610",
+          "size": "1097814",
           "boards": [
     {
       "name": "DPZ-D21x17"
